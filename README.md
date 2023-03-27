@@ -24,3 +24,5 @@ Certificar que o servidor que esteja instalado tenha backup diário para caso ha
 10 - Módulo SAAS - Para cliente 
 
 11 - Módulo Forex - Para cliente
+
+12 - Módulo Delivery - Para cliente
