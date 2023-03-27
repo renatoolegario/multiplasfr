@@ -9,21 +9,21 @@ Certificar que o servidor que esteja instalado tenha backup diário para caso ha
 
 3 - Módulo E-mail - Interno
 
-4 - Módulo E-mail - Para clientes
+4 - Módulo SAAS - Para interno 
 
-5 - Módulo serviços e Produtos - Para clientes
+5 - Módulo E-mail - Para clientes
 
-6 - Módulo ASAAS - Cobrança Interno - API ASAAS
+6 - Módulo serviços e Produtos - Para clientes
 
-7 - Módulo ASAAS - Para clientes - API ASAAS
+7 - Módulo ASAAS - Cobrança Interno - API ASAAS
 
-8 - Módulo Agendas - Para clientes 
+8 - Módulo ASAAS - Para clientes - API ASAAS
 
-9 - Módulo WhatsApp - Para clientes com API MioZap
+9 - Módulo Agendas - Para clientes 
 
-10 - Módulo Promoções - Para clientes [Precisa - 2 , 4]
+10 - Módulo WhatsApp - Para clientes com API MioZap
 
-11 - Módulo SAAS - Para cliente 
+11 - Módulo Promoções - Para clientes [Precisa - 2 , 4]
 
 12 - Módulo Forex - Para cliente
 
