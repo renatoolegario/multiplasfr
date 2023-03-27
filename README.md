@@ -18,3 +18,5 @@ O sistema baseia-se em vários módulos
 8 - Módulo Promoções - Para clientes [Precisa - 2 , 4]
 
 9 - Módulo SAAS - Para cliente 
+
+10 - Módulo Forex - Para cliente
