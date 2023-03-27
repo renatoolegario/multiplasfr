@@ -1,5 +1,6 @@
 # MultilasFR
 O sistema baseia-se em vários módulos, a ideia central é que faça todo trabalho via JSON.
+
 Certificar que o servidor que esteja instalado tenha backup diário para caso haja perca de dados tenha a retomada de d-1.
 
 1 - Ordem de serviço - Interno
