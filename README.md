@@ -1,14 +1,20 @@
 # MultilasFR
 O sistema baseia-se em vários módulos
 
-Ordem de serviço - Interno
+1 - Ordem de serviço - Interno
 
-Módulo ASAAS - Cobrança Interno - API ASAAS
+2 - Módulo serviços e Produtos - 
 
-Módulo ASAAS - Para clientes - API ASAAS
+3 - Módulo ASAAS - Cobrança Interno - API ASAAS
 
-Módulo Agendas - Para clientes 
+4 - Módulo ASAAS - Para clientes - API ASAAS
 
-Módulo WhatsApp - Para clientes com API MioZap
+5 - Módulo Agendas - Para clientes 
 
-Módulo E-mail - Com API interno
+6 - Módulo WhatsApp - Para clientes com API MioZap
+
+7 - Módulo E-mail - Com API interno 
+
+8 - Módulo Promoções - Para clientes [Precisa - 2 , 4]
+
+9 - Módulo SAAS - Para cliente 
