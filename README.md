@@ -1,5 +1,5 @@
 # MultiplasFR
-O sistema baseia-se em vários módulos, a ideia central é que faça todo trabalho via JSON.
+O sistema baseia-se em vários módulos, a ideia central é que faça todo trabalho via JSON, o sistema possui 2 templates, ambos open-source com temas DEMO do creative-tim.
 
 Certificar que o servidor que esteja instalado tenha backup diário para caso haja perca de dados tenha a retomada de d-1.
 
