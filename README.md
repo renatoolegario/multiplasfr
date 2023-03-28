@@ -3,7 +3,7 @@ O sistema baseia-se em vários módulos, a ideia central é que faça todo traba
 
 Certificar que o servidor que esteja instalado tenha backup diário para caso haja perca de dados tenha a retomada de d-1.
 
-1 - Módulo usuário - Interno
+1 - Módulo usuário - Interno [FEITO]
 
 2 - Módulo Ordem de serviço - Interno
 
