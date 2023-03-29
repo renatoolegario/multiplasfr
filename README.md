@@ -32,3 +32,5 @@ Certificar que o servidor que esteja instalado tenha backup diário para caso ha
 13 - Módulo Delivery - Para cliente
 
 14 - Módulo Professores - OpenAI voltado para pesquisas de exercicios
+
+15 - Módulo RenatoFlix - Acesso as aulas de Excel
