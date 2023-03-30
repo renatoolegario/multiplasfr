@@ -15,7 +15,7 @@ Certificar que o servidor que esteja instalado tenha backup diário para caso ha
 
 5 - Módulo E-mail - Para clientes
 
-6 - Módulo serviços e Produtos - Para clientes
+6 - Módulo serviços e Produtos - Para clientes [FEITO]
 
 7 - Módulo ASAAS - Cobrança Interno - API ASAAS
 
