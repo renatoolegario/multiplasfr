@@ -5,17 +5,18 @@ Certificar que o servidor que esteja instalado tenha backup diário para caso ha
 
 0 - Painel de controle dos módulos e configurações [FEITO]
 
-1 - Módulo usuário - Interno [FEITO]
+1 - Módulo usuário - Interno [ FEITO ]
 
 2 - Módulo Ordem de serviço - Interno
 
-3 - Módulo E-mail - Interno
+3 - Módulo E-mail - Interno [ FEITO ]
 
 4 - Módulo SAAS - Para interno 
 
 5 - Módulo E-mail - Para clientes
+Aqui o usuário vai cadastrar o modelo de e-mail, cadastrar os leads,cadastrar grupos e informar em que grupo cada um se encontra, criar novo disparo (vinculando o modelo do e-mail e o grupo para ser enviado), e relatório de envio para cada novo disparo.
 
-6 - Módulo serviços e Produtos - Para clientes [FEITO]
+6 - Módulo serviços e Produtos - Para clientes [ FEITO ]
 
 7 - Módulo ASAAS - Cobrança Interno - API ASAAS
 
