@@ -35,3 +35,5 @@ Aqui o usuário vai cadastrar o modelo de e-mail, cadastrar os leads,cadastrar g
 14 - Módulo Professores - OpenAI voltado para pesquisas de exercicios
 
 15 - Módulo RenatoFlix - Acesso as aulas de Excel
+
+16 - Módulo Leads - Cadastro de Leads para envio nos e-mails e no WhatsApp
