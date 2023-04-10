@@ -36,4 +36,4 @@ Aqui o usuário vai cadastrar o modelo de e-mail, cadastrar os leads,cadastrar g
 
 15 - Módulo RenatoFlix - Acesso as aulas de Excel
 
-16 - Módulo Leads - Cadastro de Leads para envio nos e-mails e no WhatsApp
+16 - Módulo Leads - Cadastro de Leads para envio nos e-mails e no WhatsApp (Também terá o cadastro de TAGS para facilitar o filtro dos Leads)
