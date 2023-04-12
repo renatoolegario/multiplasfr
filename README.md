@@ -37,3 +37,5 @@ Aqui o usuário vai cadastrar o modelo de e-mail, cadastrar os leads,cadastrar g
 15 - Módulo RenatoFlix - Acesso as aulas de Excel
 
 16 - Módulo Leads - Cadastro de Leads para envio nos e-mails e no WhatsApp (Também terá o cadastro de TAGS para facilitar o filtro dos Leads)
+
+17 - Módulo Cadastro de Cursos Afiliados - Cadastrar nome curso, landpage do curso, descrição do curso, link de pagamento do curso, link de vídeos de suporte dos cursos 
