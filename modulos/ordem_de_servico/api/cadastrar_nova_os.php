@@ -13,7 +13,7 @@ if(!empty($_POST['nome'])){
     
     //criar a OS 
     
-   $nome_arquivo = "AS".date("Y");
+   $nome_arquivo = "MFR".date("Y");
    $caminho_pasta = 'modulos/ordem_de_servico/banco_de_dados/os/';
    
    
