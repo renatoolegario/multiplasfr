@@ -16,15 +16,15 @@ O modelo desenhado é que você consiga ter um sistema que gere renda extra, ond
 
 Os módulos programados incluem:
 
-[V]Painel de controle dos módulos e configurações;
-[V]Módulo usuário - Interno;
-[V]Módulo Ordem de serviço;
-[V]Módulo serviços e Produtos;
-[V]Módulo ASAAS - Interno;
-[X]Módulo ASAAS - Externo;
-[X]Módulo E-mail;
-[X]Módulo Clientes;
-[X]Módulo Agendas;
-[X]Módulo WhatsApp;
-[X]Módulo Promoções;
-[X]Módulo Forex.
+- [V]Painel de controle dos módulos e configurações;
+- [V]Módulo usuário - Interno;
+- [V]Módulo Ordem de serviço;
+- [V]Módulo serviços e Produtos;
+- [V]Módulo ASAAS - Interno;
+- [X]Módulo ASAAS - Externo;
+- [X]Módulo E-mail;
+- [X]Módulo Clientes;
+- [X]Módulo Agendas;
+- [X]Módulo WhatsApp;
+- [X]Módulo Promoções;
+- [X]Módulo Forex.
