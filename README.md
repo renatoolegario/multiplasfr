@@ -21,7 +21,7 @@ Os módulos programados incluem:
 - [V]Módulo Ordem de serviço;
 - [V]Módulo serviços e Produtos;
 - [V]Módulo ASAAS - Interno;
-- [X]Módulo ASAAS - Externo;
+- [X]Módulo ASAAS - Externo; [EM CONSTRUÇÃO]
 - [X]Módulo E-mail;
 - [X]Módulo Clientes;
 - [X]Módulo Agendas;
