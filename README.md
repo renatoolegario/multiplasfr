@@ -2,7 +2,7 @@
 
 O sistema em questão é bastante abrangente e possui vários módulos diferentes, cada um com uma funcionalidade específica. A ideia central é desenvolver um sistema de fácil instalação, onde qualquer pessoa consiga baixá-lo e usá-lo, sem precisar ter conhecimento de banco de dados. A pré-configuração é simples.
 
-O modelo desenhado é que você consiga ter um sistema que gere renda extra, onde você pode oferecer serviços úteis aos comerciantes, como:
+O modelo desenhado é que você consiga ter um sistema que gere renda extra, onde você pode oferecer serviços úteis aos comerciantes, tudo com um controle de usuários onde pode ser feito o bloqueio de acesso e a cobrança da mensalidade, serviços prestados:
 
 - E-mail marketing;
 - Envio de mensagens no WhatsApp;
