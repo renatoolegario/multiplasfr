@@ -14,16 +14,17 @@ O modelo desenhado é que você consiga ter um sistema que gere renda extra, ond
 - Gerenciamento de clientes/leads, onde terá tags e grupos para identificação;
 - Sistema de Ordem de Serviço, onde você consegue gerenciar as ordens de serviços em aberto, configurando por grupo, subgrupos e departamentos, adicionando seus agentes.
 
-Alguns dos módulos disponíveis incluem:
+Os módulos programados incluem:
 
-0. Painel de controle dos módulos e configurações;
-1. Módulo usuário - Interno;
-2. Módulo Ordem de serviço;
-3. Módulo E-mail;
-4. Módulo serviços e Produtos;
-5. Módulo Clientes;
-6. Módulo ASAAS;
-7. Módulo Agendas;
-8. Módulo WhatsApp;
-9. Módulo Promoções;
-10. Módulo Forex.
+[V]Painel de controle dos módulos e configurações;
+[V]Módulo usuário - Interno;
+[V]Módulo Ordem de serviço;
+[V]Módulo serviços e Produtos;
+[V]Módulo ASAAS - Interno;
+[X]Módulo ASAAS - Externo;
+[X]Módulo E-mail;
+[X]Módulo Clientes;
+[X]Módulo Agendas;
+[X]Módulo WhatsApp;
+[X]Módulo Promoções;
+[X]Módulo Forex.
