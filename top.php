@@ -61,14 +61,7 @@ include("bibliotecas/00-Rotas/01-configuracoes_adm.php");
       <div class="collapse navbar-collapse justify-content-end" id="navigation">
         <ul class="navbar-nav">
             
-            
-          <li class="nav-item">
-            <a href="index.php?bt=nova_os"  class="nav-link"><i class="nc-icon nc-key"></i>Nova OS</a>
-          </li>
-           
-          <li class="nav-item">
-            <a href="index.php?bt=acompanhar_os"  class="nav-link"><i class="nc-icon nc-key"></i>Acompanhar OS</a>
-          </li>
+          
            
         
           <li class="nav-item">
